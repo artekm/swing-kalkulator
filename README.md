@@ -2,6 +2,10 @@
 
 Simple Swing calculator
 
-Uses precedense of operators
+Uses order of operators
 
 Uses brackets
+
+![application in use](KalkulatorScreenshot.png)
+
+Result is 26.0 :-)
